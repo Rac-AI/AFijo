@@ -1,0 +1,2 @@
+# AFijo
+Activo Fijo
