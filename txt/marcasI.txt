@@ -1,0 +1,6 @@
+"ASU";"ASUS"
+"DEL";"DELL"
+"GEN";"GENERICO"
+"HP";"HP"
+"LEN";"LENOVO"
+"MIC";"MICROSOFT"
